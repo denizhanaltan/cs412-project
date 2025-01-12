@@ -30,6 +30,10 @@ Here are the key Jupyter Notebooks that form the backbone of our project:
      - Ensemble modeling for final predictions.  
      - Outlier handling and extensive preprocessing.
 
+4. **`requirements.txt`**
+   - **Purpose:** Contains the required Python libraries for the notebooks
+   - **Usage:** `pip install -r requirements`
+
 ---
 
 ## 📑 Project Report
