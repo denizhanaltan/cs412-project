@@ -31,7 +31,7 @@ Here are the key Jupyter Notebooks that form the backbone of our project:
      - Outlier handling and extensive preprocessing.
 
 4. **`requirements.txt`**
-   - **Purpose:** Contains the required Python libraries for the notebooks
+   - **Purpose:** Contains the required Python libraries for the notebooks.
    - **Usage:** `pip install -r requirements.txt`
 
 ---
