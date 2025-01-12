@@ -82,10 +82,10 @@ The **detailed project report** provides a comprehensive analysis of our approac
 
 ## 🤝 Team Contributions
 
-- **Denizhan Altan 
-- **Emre Çavuş   
-- **İlhan İskurt 
-- **Alp Yelekçi  
-- **Serhat Cemal Öztürk  
+- Denizhan Altan 
+- Emre Çavuş   
+- İlhan İskurt 
+- Alp Yelekçi  
+- Serhat Cemal Öztürk  
 
 
