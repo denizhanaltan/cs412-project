@@ -32,7 +32,7 @@ Here are the key Jupyter Notebooks that form the backbone of our project:
 
 4. **`requirements.txt`**
    - **Purpose:** Contains the required Python libraries for the notebooks
-   - **Usage:** `pip install -r requirements`
+   - **Usage:** `pip install -r requirements.txt`
 
 ---
 
